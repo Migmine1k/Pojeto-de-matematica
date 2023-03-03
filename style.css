@@ -1,0 +1,10 @@
+body{
+    font-family: 'Comic Sans MS';
+    background-color: darkslateblue;
+    text-emphasis-color:rgb(114, 158, 152);
+}
+button{
+    background-color: blue;
+    padding:5px ;
+    border-radius:10px;
+}
